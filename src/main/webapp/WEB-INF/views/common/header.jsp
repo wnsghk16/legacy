@@ -24,3 +24,5 @@
       vuetify: new Vuetify(),
     })
 </script>
+<script src="${javascript}/app.js"></script>
+<script src="${javascript}/session.js"></script>

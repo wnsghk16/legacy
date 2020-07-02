@@ -2,6 +2,7 @@
 <!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN" "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
 <tiles-definitions>
     
+    <!--main page-->
     <definition name="public" template="/WEB-INF/views/layouts/public.jsp">
     	<put-attribute name="header" value="/WEB-INF/views/common/header.jsp"/>
     	<put-attribute name="navigator" value="/WEB-INF/views/common/navigator.jsp"/>
@@ -10,6 +11,25 @@
     </definition>
     <definition name="*/*.tiles" extends="public">
     	<put-attribute name="content" value="/WEB-INF/views/{1}/{2}.jsp"/>
+    </definition>
+    
+    <definition name="user" template="/WEB-INF/views/layouts/loginTemplate.jsp">
+    	<put-attribute name="header" value="/WEB-INF/views/common/header.jsp"/>
+    	<put-attribute name="usernavigator" value="/WEB-INF/views/common/userNavigator.jsp"/>
+    	<put-attribute name="content" value=""/>
+    	<put-attribute name="footer" value="/WEB-INF/views/common/footer.jsp"/>
+    </definition>
+    <definition name="*/*.user" extends="user">
+    	<put-attribute name="content" value="/WEB-INF/views/{1}/{2}.jsp"/>
+    </definition>
+    <!-- no tiles  -->
+    <definition name="noTiles" template="/WEB-INF/views/layouts/noTemplate.jsp">
+    	<put-attribute name="header" value="/WEB-INF/views/common/header.jsp"/>
+    	<put-attribute name="navigator" value="/WEB-INF/views/common/navigator.jsp"/>
+   		<put-attribute name="noTemplate" value="" />
+    </definition>
+    <definition name="*/*.jsp" extends="noTiles">
+    	<put-attribute name="noTemplate" value="/WEB-INF/views/{1}/{2}.jsp" />
     </definition>
     
     

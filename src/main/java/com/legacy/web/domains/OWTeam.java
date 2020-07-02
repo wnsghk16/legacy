@@ -6,6 +6,6 @@ import lombok.Data;
 
 @Component
 @Data
-public class OWTeamDTO {
+public class OWTeam {
 	private String team, teamimg;
 }

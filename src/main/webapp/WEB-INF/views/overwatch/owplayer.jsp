@@ -80,17 +80,17 @@
 							<tbody>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/bltc31a42b766403484/5e473fc180c3d41861a0fadf/Spitfire_Clestyn.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">Clestyn</td>
 									<td class="text-start">Geonhee Cho</td>
 									<td class="text-start">KR | Daejeon</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img class="image1" data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>
@@ -98,17 +98,17 @@
 								</tr>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/bltd9f0e56622751466/5e473fc1f9482b17fbc76010/Spitfire_Although.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">Although</td>
 									<td class="text-start">Hyeonwook Jung</td>
 									<td class="text-start">KR | Ulsan</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img  class="image1"  data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>
@@ -116,17 +116,17 @@
 								</tr>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/bltd3f8d822a2a70127/5e473fd13acdc70bd3d46f23/Spitfire_Jihun.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">Jihun</td>
 									<td class="text-start">Jihun Kim</td>
 									<td class="text-start">KR | Ulsan</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img class="image1"  data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>
@@ -134,17 +134,17 @@
 								</tr>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/blt8ff0b3c5bd553e2d/5e473fc1af702f08b6a32acb/Spitfire_Babel.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">Babel</td>
 									<td class="text-start">Sangjun Park</td>
 									<td class="text-start">KR | Jeju</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img class="image1"  data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>
@@ -152,17 +152,17 @@
 								</tr>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/blt109b4b6e3e70c074/5e473fc11a3b6617fcdccde7/Spitfire_Glister.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">Glister</td>
 									<td class="text-start">Gilseong Lim</td>
 									<td class="text-start">KR | Gimhae</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img class="image1"  data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>
@@ -170,17 +170,17 @@
 								</tr>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/blt12fa84cdf8909e73/5e473fc1fbf2330bd4d047de/Spitfire_Fuze.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">Fuze</td>
 									<td class="text-start">TaeHoon Kim</td>
 									<td class="text-start">KR | Jeonju</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img class="image1"  data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>
@@ -188,17 +188,17 @@
 								</tr>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/blt20d23e16b836b3f2/5e473fc1a173e408b75c00d5/Spitfire_Bernar.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">BERNAR</td>
 									<td class="text-start">Sewon Shin</td>
 									<td class="text-start">KR | Ulsan</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img class="image1"  data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>
@@ -206,17 +206,17 @@
 								</tr>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/blt9721c98b3f1e86d1/5e473fd180c3d41861a0fae5/Spitfire_Highly.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">Highly</td>
 									<td class="text-start">SungHyuk Lee</td>
 									<td class="text-start">KR | Seoul</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img class="image1"  data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>
@@ -224,17 +224,17 @@
 								</tr>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/bltc3e6a54dc2bc8edc/5e473fd1af702f08b6a32ad1/Spitfire_Schwi.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">Schwi</td>
 									<td class="text-start">DongJae Lee</td>
 									<td class="text-start">KR | Busan</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img class="image1"  data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>
@@ -242,17 +242,17 @@
 								</tr>
 								<tr class="">
 									<td class="text-left"><div data-v-0b4db279=""
-											class="v-image v-responsive image theme--light">
+											class="v-image v-responsive image1 theme--light">
 											<div class="v-responsive__sizer"
 												style="padding-bottom: 100%;"></div>
-											<div class="v-image__image v-image__image--cover"
+											<div class="v-image__image v-image__image--cover image1"
 												style="background-image: url(&quot;https://images.blz-contentstack.com/v3/assets/blt321317473c90505c/blt2c4f39eabf9825fd/5e473fd1cc8de70b69efa9f9/Spitfire_Krillin.png&quot;); background-position: center center;"></div>
 											<div class="v-responsive__content" style="width: 454px;"></div>
 										</div></td>
 									<td class="text-start">Krillin</td>
 									<td class="text-start">Young Hoon Jeong</td>
 									<td class="text-start">KR | Seoul</td>
-									<td class="text-start"><img data-v-0b4db279=""
+									<td class="text-start"><img class="image1"  data-v-0b4db279=""
 										src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/HCS229B4DP021507822883016.svg"
 										class="image"></td>
 									<td class="text-start">런던 스핏파이어</td>

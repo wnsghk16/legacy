@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+    pageEncoding="UTF-8"%>
 
 <div data-app="true"
 	class="v-application v-application--is-ltr theme--light" id="app">
@@ -46,8 +46,8 @@
 							<div class="spacer"></div>
 							<div class="spacer"></div>
 							<div class="spacer"></div>
-							<div class="spacer"></div>
-							<div class="v-input v-input--hide-details theme--light v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-inverted v-text-field--solo-flat v-text-field--is-booted v-text-field--enclosed"
+							<div
+								class="v-input v-input--hide-details theme--light v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-inverted v-text-field--solo-flat v-text-field--is-booted v-text-field--enclosed"
 								style="max-width: 300px;">
 								<div class="v-input__control">
 									<div class="v-input__slot">
@@ -64,9 +64,14 @@
 								</div>
 							</div>
 							<div class="spacer"></div>
-							<div id="join" class="v-image v-responsive icon theme--light" style="height:40px;">
+							<div id="mypage" class="v-image v-responsive icon theme--light" style="height:40px;">
 								<div  class="v-image__image v-image__image--cover"
-									style="width:40px; height:40px; background-image: url(&quot;https://image.flaticon.com/icons/svg/2522/2522088.svg&quot;); background-position: center center;"></div>
+									style="width:40px; height:40px; background-image: url(&quot;https://image.flaticon.com/icons/svg/2522/2522314.svg&quot;); background-position: center center;"></div>
+								<div class="v-responsive__content" style="margin-top:10px;"></div>
+							</div>
+							<div id="logout" class="v-image v-responsive icon theme--light" style="height:40px;">
+								<div  class="v-image__image v-image__image--cover"
+									style="width:40px; height:40px; background-image: url(&quot;https://image.flaticon.com/icons/svg/2522/2522323.svg&quot;); background-position: center center;"></div>
 								<div class="v-responsive__content" style="margin-top:10px;"></div>
 							</div>
 						</div>
@@ -74,22 +79,29 @@
 				</div>
 			</header>
 		</div>
+<script src="${javascript}/store/person.js"></script>
 <script>
-$('#join').click(function(e){
-	e.preventDefault
-	location.href= `${context}/location/member/loginForm`
+document.getElementById('mypage').addEventListener('click',function(e){
+	e.preventDefault()
+	location.href= `${context}/user/member/mypage`
 })
+document.getElementById('logout').addEventListener('click',function(e){
+	e.preventDefault()
+	person.init()
+	person.logout()
+})
+
 $('#home').click(function(e){
 	e.preventDefault
-	location.href= `${context}/`
+	location.href= `${context}/user/main/home`
 })	
 $('#owplayer').click(function(e){
 	e.preventDefault
-	location.href= `${context}/tiles/overwatch/owplayer`
+	location.href= `${context}/user/overwatch/owplayer`
 })
 $('#owteam').click(function(e){
 	e.preventDefault
-	location.href= `${context}/tiles/overwatch/owteam`
+	location.href= `${context}/user/overwatch/owteam`
 })
 </script>
 <style>

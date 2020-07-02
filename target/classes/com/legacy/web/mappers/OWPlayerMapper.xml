@@ -2,7 +2,7 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.legacy.web.mappers.OWPlalyerMapper">
-    <select id="selectAll" resultType="com.legacy.web.domains.OWPlayerDTO">
+    <select id="selectAll" resultType="com.legacy.web.domains.OWPlayer">
         select
             id,
             player,

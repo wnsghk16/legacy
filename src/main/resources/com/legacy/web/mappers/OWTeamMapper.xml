@@ -2,7 +2,7 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.legacy.web.mappers.OWTeamMapper">
-    <select id="selectAll" resultType="com.legacy.web.domains.OWTeamDTO">
+    <select id="selectAll" resultType="com.legacy.web.domains.OWTeam">
         select
             teamimg,
             team,

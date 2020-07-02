@@ -6,7 +6,7 @@ import lombok.Data;
 
 @Component
 @Data
-public class OWPlayerDTO {
+public class OWPlayer {
 	private int owplayerNo;
 	private String id, playerimg, player, name, hometown, teamimg, team, role;
 }
